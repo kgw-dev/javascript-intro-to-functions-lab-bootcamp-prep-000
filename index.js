@@ -13,7 +13,8 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   return string
 }
+var string = "hello"
 sayHiToGrandma("hello")
 sayHiToGrandma("HELLO")
 sayHiToGrandma("Hello")
-sayHiToGrandma("I love you")
+sayHiToGrandma("I love you, Grandma")
